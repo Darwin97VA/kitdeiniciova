@@ -1,0 +1,19 @@
+{
+  "name": "kitdeiniciova",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Darwin97VA/kitdeiniciova.git"
+  },
+  "author": "Darwin Vilcachagua Ayala <darwin97.va@gmail.com>",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/Darwin97VA/kitdeiniciova/issues"
+  },
+  "homepage": "https://github.com/Darwin97VA/kitdeiniciova#readme"
+}
